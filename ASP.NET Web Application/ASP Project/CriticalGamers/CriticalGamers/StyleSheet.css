@@ -1,0 +1,181 @@
+﻿
+
+body#retro{
+    background: url("Content/galaga.png")
+   
+}
+
+
+
+body#home{
+    background: url("Content/dx.png")
+
+    no-repeat
+
+    center center fixed;
+   
+}
+
+
+
+body#ps4{
+    background: url("Content/psbg.jpg")
+
+    no-repeat;
+}
+
+body#xbox {
+    background: url("Content/xbg.jpg")
+    center center fixed;
+       
+      
+}
+
+body#gz{
+    background: url("Content/gz.jpg")
+    center center fixed;
+}
+
+body#mgs1{
+    background: url("Content/mgs.jpg")
+
+    center center fixed;
+    
+}
+
+body#t3{
+    background: url("Content/t3.jpg")
+      
+    center center fixed no-repeat;
+}
+
+body#profile{
+    background: url("Content/hexagon.jpg")
+
+    center center fixed no-repeat;
+}
+
+
+
+
+body#tlour{
+    background: url("Content/tlour.jpg")
+    center center fixed;
+}
+
+body#som{
+    background: url("Content/som.jpg")
+    center center fixed;
+}
+
+body#wd{
+    background: url("Content/wd.jpg")
+    center center fixed;
+}
+
+body#IF{
+    background: url("Content/ifwallpaper.jpg")
+    center center fixed;
+}
+
+body#TF{
+    background: url("Content/tfwallpaper.jpg")
+    center center fixed;
+}
+
+body#DR3{
+    background: url("Content/dr3wallpaper.jpg")
+    center center fixed;
+}
+
+
+
+
+
+
+   div#banner.jumbotron{
+    background: url("Content/banner.png")
+    no-repeat
+        center;
+}
+
+   div#profilejumbotron.jumbotron{
+       background: url("Content/profile.jpg")
+       no-repeat
+           center;
+   }
+
+   div#retrobanner.jumbotron{
+       background: url("Content/pacman.jpg")
+       no-repeat;
+   }
+
+   div#PS4banner.jumbotron{
+       background: url("Content/ps4-banner.jpg")
+       no-repeat
+           center;
+   }
+
+
+   div#xboxbanner.jumbotron{
+       background: url("Content/xbox-banner.jpg")
+       no-repeat
+           center;
+   }
+
+  
+
+   div#panelid.panel panel-default{
+     opacity: 0.5;
+  }
+
+   #divsomjumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+   #divtloujumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+   #divmgsvjumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+    #divmgs1jumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+    #divt3jumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+
+
+   #divdr3jumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+    #divifjumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+     #divtfjumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+      #divwdjumbotron.jumbotron{
+       padding: 0.2em 0.2em;
+
+   }
+
+     
+
+

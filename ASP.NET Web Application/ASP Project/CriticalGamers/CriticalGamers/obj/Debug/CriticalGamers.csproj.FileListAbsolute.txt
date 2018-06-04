@@ -1,0 +1,332 @@
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll.config
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\CriticalGamers.pdb
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\EntityFramework.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Owin.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Web.Providers.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\WebGrease.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.pdb
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\EntityFramework.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Web.Providers.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.csprojResolveAssemblyReference.cache
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.dll
+c:\users\alienware\documents\visual studio 2013\Projects\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\AjaxControlToolkit.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\AjaxMin.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Spatial.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\System.Spatial.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\de\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\es\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\fr\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\it\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ja\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ko\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\ru\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\CriticalGamers\CriticalGamers\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll.config
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\CriticalGamers.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\AjaxControlToolkit.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\AjaxMin.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\EntityFramework.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Owin.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Spatial.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Web.Providers.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\WebGrease.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Spatial.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.pdb
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\EntityFramework.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\System.Web.Providers.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\de\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\es\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\fr\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\it\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ja\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ko\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\ru\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.csprojResolveAssemblyReference.cache
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.dll
+C:\Users\Alienware\Documents\Visual Studio 2013\Projects\TESTING\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.pdb
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll.config
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\CriticalGamers.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\CriticalGamers.pdb
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\AjaxControlToolkit.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\AjaxMin.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\EntityFramework.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Owin.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Spatial.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Web.Providers.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\WebGrease.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.pdb
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\HtmlAgilityPack.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Data.Edm.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Data.OData.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Spatial.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Web.Optimization.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Antlr3.Runtime.pdb
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Newtonsoft.Json.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\EntityFramework.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\EntityFramework.SqlServer.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\System.Web.Providers.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\de\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\es\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\fr\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\it\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ja\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ko\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\ru\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.csprojAssemblyReference.cache
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.csproj.CopyComplete
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.dll
+C:\Users\micha\Downloads\ASP Web Application x12420472\ASP Project\CriticalGamers\CriticalGamers\obj\Debug\CriticalGamers.pdb
